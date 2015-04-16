@@ -1,0 +1,22 @@
+﻿@using SimpleWebApp.ViewModels
+@model MessageView
+@{
+    Layout = null;
+    
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h1>Entelect Dojo - Continuous Integration</h1>
+        <h2>@Model.Message</h2>
+        <h3>@Model.When.ToString("yyyy-MM-dd HH:mm:ss")</h3>
+    </div>
+</body>
+</html>

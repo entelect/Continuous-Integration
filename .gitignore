@@ -1,0 +1,12 @@
+[Bb]in
+[Oo]bj
+_ReSharper.*
+_UpgradeReport_Files.*
+*.suo
+*.DS_Store
+[Tt]humbs.db
+*.resharper
+Ankh.NoLoad
+*.user
+error-*.xml
+*.orig
