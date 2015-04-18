@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Entelect.Dojo.SimpleWebApp</id>
+    <version>1.0.0</version>
+    <authors>Duane McKibbin</authors>
+    <description>Sample app for Entelect Doojo CI</description>
+    <language>en-US</language>
+    <projectUrl>http://www.entelect.co.za/</projectUrl>    
+  </metadata>
+</package>
