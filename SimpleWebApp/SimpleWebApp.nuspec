@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Entelect.Dojo.SimpleWebApp</id>
+    <version>1.0.0</version>
+    <title>Entelect Dojo CI Simple Web App</title>
+    <authors>Duane McKibbin</authors>
+    <owners>Duane McKibbin</owners>
+    <projectUrl>http://www.entelect.co.za</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Sample</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2015</copyright>    
+  </metadata>
+</package>

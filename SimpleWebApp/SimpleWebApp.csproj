@@ -145,7 +145,7 @@
     <Content Include="Properties\SlowCheetah\SlowCheetah.Transforms.targets" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Entelect.Dojo.SimpleWebApp.nuspec" />
+    <Content Include="SimpleWebApp.nuspec" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
