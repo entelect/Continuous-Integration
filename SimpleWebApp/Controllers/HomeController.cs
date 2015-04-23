@@ -13,9 +13,10 @@ namespace SimpleWebApp.Controllers
         public ActionResult Index()
         {
             var message = ConfigurationManager.AppSettings["message"];
+            var release = ConfigurationManager.AppSettings["OcotpusReleaseVersion"];
             return View(new MessageView()
                             {
-                                Message = message
+                                Message = message + "- Release " + release
                             });
         }
 
