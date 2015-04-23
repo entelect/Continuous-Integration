@@ -148,9 +148,9 @@
     <Content Include="SimpleWebApp.nuspec" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Web.Dojo.config">
+    <Content Include="Web.Dojo.config">
       <DependentUpon>Web.config</DependentUpon>
-    </None>
+    </Content>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
