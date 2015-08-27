@@ -18,7 +18,7 @@ namespace SimpleWebApp.Controllers
                             {
                                 Message = message + "- Release " + release
                             });
-//        }
+        }
 
     }
 }
